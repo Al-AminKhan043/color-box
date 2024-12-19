@@ -5,6 +5,7 @@
 
 .color-box-list {
     display: flex;
-    justify-content: space-between; /* Distribute space evenly between boxes */
+    flex-wrap: wrap;
+   
     gap: 10px; /* Adds a fixed gap between each box */
   }

@@ -7,6 +7,25 @@ return (
         <ColorBox colorList={colorList}  />
         <ColorBox colorList={colorList} />
         <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
+        <ColorBox colorList={colorList} />
     </div>
 )
 }
