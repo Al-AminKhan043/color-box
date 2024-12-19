@@ -1,0 +1,10 @@
+.pointer{
+    cursor: pointer;
+}
+
+
+.color-box-list {
+    display: flex;
+    justify-content: space-between; /* Distribute space evenly between boxes */
+    gap: 10px; /* Adds a fixed gap between each box */
+  }
